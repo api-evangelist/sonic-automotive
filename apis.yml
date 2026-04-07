@@ -1,7 +1,12 @@
 aid: sonic-automotive
-url: https://raw.githubusercontent.com/api-evangelist/sonic-automotive/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/sonic-automotive/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.sonic-automotive.com
+description: >-
+  Sonic Automotive is one of the largest automotive retailers in the United States,
+  operating dealerships representing many of the most popular automotive brands and
+  selling new and used vehicles.
