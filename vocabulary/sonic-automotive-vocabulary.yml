@@ -1,0 +1,88 @@
+vocabulary:
+  name: Sonic Automotive Vocabulary
+  description: >-
+    Vocabulary for Sonic Automotive covering automotive retail, vehicle inventory,
+    dealership operations, digital retail, and automotive industry terminology.
+  version: "1.0.0"
+  created: "2026-05-02"
+  modified: "2026-05-02"
+  tags:
+    - Automotive
+    - Retail
+    - Dealership
+
+terms:
+
+  - term: EchoPark Automotive
+    definition: >-
+      Sonic Automotive's used vehicle retail brand operating dedicated used-car
+      stores separate from the franchise dealership network.
+    type: concept
+    tags: [Brand, Used Vehicles]
+
+  - term: Franchise Dealership
+    definition: >-
+      An authorized car dealership operating under a specific automotive brand
+      (OEM) franchise agreement, selling new and certified pre-owned vehicles.
+    type: concept
+    tags: [Dealership, Core]
+
+  - term: OEM
+    definition: >-
+      Original Equipment Manufacturer — an automotive brand (e.g., BMW, Ford,
+      Toyota) whose vehicles Sonic Automotive is authorized to sell.
+    abbreviation: OEM
+    type: concept
+    tags: [Automotive, Core]
+
+  - term: F&I
+    definition: >-
+      Finance and Insurance — the dealership department that arranges vehicle
+      financing, extended warranties, gap insurance, and other ancillary products.
+    abbreviation: F&I
+    type: concept
+    tags: [Finance, Insurance]
+
+  - term: Digital Retail
+    definition: >-
+      Online vehicle purchasing experiences enabling customers to complete
+      vehicle transactions (pricing, financing, trade-in valuation) online.
+    type: concept
+    tags: [Digital, Retail]
+
+  - term: Trade-In
+    definition: >-
+      A vehicle a customer sells to the dealership as part credit toward a
+      new vehicle purchase.
+    type: concept
+    tags: [Vehicles, Operations]
+
+  - term: Inventory Management
+    definition: >-
+      Systems and processes for acquiring, tracking, pricing, and selling vehicle
+      inventory across dealership locations.
+    type: concept
+    tags: [Operations, Technology]
+
+  - term: CDK Global
+    definition: >-
+      A leading automotive retail technology provider offering dealer management
+      systems (DMS) and API integrations used by many automotive retailers
+      including Sonic Automotive.
+    type: integration
+    tags: [Technology, Integration]
+
+  - term: DMS
+    definition: >-
+      Dealer Management System — the core enterprise software platform used by
+      automotive dealerships to manage sales, service, parts, and finance operations.
+    abbreviation: DMS
+    type: concept
+    tags: [Technology, Core]
+
+  - term: Service Drive
+    definition: >-
+      The vehicle service and repair department of a dealership, generating
+      recurring revenue from maintenance and repairs.
+    type: concept
+    tags: [Service, Operations]

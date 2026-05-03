@@ -1,33 +1,34 @@
-# Sonic Automotive (sonic-automotive)
-Sonic Automotive is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Sonic Automotive.
+# Sonic Automotive
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/sonic-automotive/refs/heads/main/apis.yml)
+Sonic Automotive is one of the largest automotive retailers in the United States, operating 100+ franchise dealerships across 13 states representing 25+ automotive brands, and operating EchoPark Automotive used-vehicle stores. A Fortune 500 company, Sonic invests in digital retail platforms, inventory management technology, and customer experience systems to support vehicle sales, service, finance, and insurance operations.
 
-## Scope
+**URL:** [https://raw.githubusercontent.com/api-evangelist/sonic-automotive/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/sonic-automotive/refs/heads/main/apis.yml)
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Tags
 
-## Tags:
-
- - Fortune 500
-
-## Timestamps
-
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+Automotive, Retail, Dealership, Used Vehicles, Digital Retail, Fortune 500
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public developer APIs have been documented for Sonic Automotive. The company uses technology partner platforms including CDK Global (DMS), Stripe (payments), and NETSOL Technologies (digital retail). Contributions or corrections welcome.
+
+## Artifacts
+
+### Vocabulary
+
+| File | Description |
+|---|---|
+| [sonic-automotive-vocabulary.yml](vocabulary/sonic-automotive-vocabulary.yml) | Automotive retail vocabulary and domain terms |
 
 ## Common Properties
 
 - [Website](https://www.sonic-automotive.com)
+- [Investor Relations](https://ir.sonicautomotive.com/)
+- [EchoPark](https://www.echopark.com)
+- [Press Releases](https://ir.sonicautomotive.com/news-events/press-releases)
+- [Annual Reports](https://ir.sonicautomotive.com/sec-filings/annual-reports)
 
 ## Maintainers
 
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+**FN:** Kin Lane  
+**Email:** kin@apievangelist.com
