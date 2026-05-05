@@ -1,0 +1,13 @@
+{
+  "repo": "sonic-automotive",
+  "feeds": [
+    {
+      "source": "https://ir.sonicautomotive.com/news-events/press-releases",
+      "feed_url": "https://ir.sonicautomotive.com/news-events/press-releases/rss",
+      "saved": 10,
+      "title": "Sonic Automotive, Inc. (SAH) News"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:36:52Z"
+}
