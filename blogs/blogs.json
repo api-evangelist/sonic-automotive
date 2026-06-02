@@ -2,12 +2,17 @@
   "repo": "sonic-automotive",
   "feeds": [
     {
-      "source": "https://ir.sonicautomotive.com/news-events/press-releases",
+      "source": "https://ir.sonicautomotive.com/news-events/press-releases/rss/",
       "feed_url": "https://ir.sonicautomotive.com/news-events/press-releases/rss/",
-      "title": "Sonic Automotive, Inc. (SAH) News",
-      "saved": 10
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.echopark.com",
+      "error": "HTTPError"
     }
   ],
-  "post_count": 20,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 21,
+  "fetched": "2026-06-01T23:35:02Z"
 }
