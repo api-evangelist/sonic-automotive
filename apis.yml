@@ -8,6 +8,17 @@ description: >-
   to enhance customer experience across vehicle sales, service, finance, and
   insurance. Technology partners include Stripe, NETSOL, and CDK Global.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
