@@ -1,7 +1,9 @@
 ---
 title: Company News | Sonic Automotive Group
 url: https://www.dealer.com/canada/company-news/sonic-automotive-group-partners-with-dealer-com/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sonic Automotive" press release artificial intelligence'
 position: 5
 source: serpapi-google

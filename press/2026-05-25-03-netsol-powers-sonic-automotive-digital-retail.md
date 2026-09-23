@@ -1,7 +1,9 @@
 ---
 title: NETSOL Powers Sonic Automotive Digital Retail
 url: https://www.cbtnews.com/netsol-chosen-by-sonic-automotive-to-power-next-gen-digital-retail-experience/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sonic Automotive" press release artificial intelligence'
 position: 3
 source: serpapi-google

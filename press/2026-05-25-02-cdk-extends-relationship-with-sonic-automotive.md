@@ -1,7 +1,9 @@
 ---
 title: CDK EXTENDS RELATIONSHIP WITH SONIC AUTOMOTIVE
 url: https://www.cdkglobal.com/media-center/cdk-extends-relationship-sonic-automotive
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sonic Automotive" press release artificial intelligence'
 position: 2
 source: serpapi-google
