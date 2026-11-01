@@ -64,35 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sonic Automotive is one of the largest automotive retailers in the United States, operating 100+ franchise dealerships across 13 states representing 25+ automotive brands, and operating EchoPark Automotive used-vehicle stores. A Fortune 500 company, Sonic invests in digital retail platforms, inventory management technology, and customer experience systems to support vehicle sales, service, finance, and insurance operations.
+Sonic Automotive is one of the largest automotive retailers in the United States, operating 100+ franchise dealerships across 13 states representing 25+ automotive brands, and operating EchoPark Automotive used-vehicle stores. The company invests in digital retail, inventory management technology, and automotive data platforms to enhance customer experience across vehicle sales, service, finance, and insurance. Technology partners include Stripe, NETSOL, and CDK Global.
 
-**URL:** [https://raw.githubusercontent.com/api-evangelist/sonic-automotive/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/sonic-automotive/refs/heads/main/apis.yml)
+**Areas:** Automotive · Retail · Dealership · Used Vehicles · Digital Retail · Fortune 500
 
-## Tags
+## Sonic Automotive on APIs.io
 
-Automotive, Retail, Dealership, Used Vehicles, Digital Retail, Fortune 500
+Everything profiled for Sonic Automotive is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sonic-automotive/](https://apis.io/providers/sonic-automotive/)** — or go straight to one of the APIs or properties below.
 
-## APIs
+### Published properties
 
-No public developer APIs have been documented for Sonic Automotive. The company uses technology partner platforms including CDK Global (DMS), Stripe (payments), and NETSOL Technologies (digital retail). Contributions or corrections welcome.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Artifacts
+#### Vocabulary (1)
 
-### Vocabulary
+The provider's domain terms, defined.
 
-| File | Description |
-|---|---|
-| [sonic-automotive-vocabulary.yml](vocabulary/sonic-automotive-vocabulary.yml) | Automotive retail vocabulary and domain terms |
+- [Sonic Automotive Vocabulary](https://apis.io/vocabularies/sonic-automotive/sonic-automotive-vocabulary/)
 
-## Common Properties
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sonic Automotive Domain Security](https://apis.io/security/sonic-automotive/sonic-automotive-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.sonic-automotive.com)
-- [Investor Relations](https://ir.sonicautomotive.com/)
-- [EchoPark](https://www.echopark.com)
-- [Press Releases](https://ir.sonicautomotive.com/news-events/press-releases)
-- [Annual Reports](https://ir.sonicautomotive.com/sec-filings/annual-reports)
+- [Blog](https://ir.sonicautomotive.com/news-events/press-releases)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane  
-**Email:** kin@apievangelist.com
+**Kin Score 5.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sonic-automotive/](https://apis.io/providers/sonic-automotive/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Sonic Automotive: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sonic-automotive/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
